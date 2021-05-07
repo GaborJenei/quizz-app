@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--  Main title Style  -->
+    <style name="main_title" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!--    Styling of the Quiz question text -->
+    <style name="question" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+    </style>
+
+    <!-- Styling for over-image photo credits -->
+    <style name="photo_credit" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">8sp</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!--    Radio Button styling -->
+    <style name="radio_button_style">
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <!--    Image styles-->
+    <style name="ImageFormatting">
+        <item name="android:height">128dp</item>
+    </style>
+
+</resources>

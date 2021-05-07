@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="result_toast">Your score is:</string>
+    <string name="submit_button">Submit Answers</string>
+    <string name="name_label">What\'s your name?</string>
+    <string name="name_hint">Type your name here</string>
+    <string name="rules">The rules: you can get maximum 9 points. There can be multiple correct answers for some questions.
+         For these make you\'ll only get a score if you selected exclisively the correct answers. Good luck!</string>
+
+    <string name="main_title">Citius, Altius, Fortius</string>
+    <string name="question_01">Which is the least populous country in the world?</string>
+    <string name="question_02">Who has the most nominations for best actor/actress and best support actor/actress without winning?</string>
+    <string name="question_03">Which African country has the highest GDP per capita?</string>
+    <string name="question_04">Who has the most Number 1 singles on the UK chart?</string>
+    <string name="question_05">Which country has the largest armed forces in the world?</string>
+    <string name="question_06">Which NYSE listed company had the highest market value in 2019?</string>
+    <string name="question_07">Who was the youngest US president at the start of his term?</string>
+    <string name="question_08">Bonus 1: Which one of these can you find in Hunagry?</string>
+    <string name="question_09">Bonus 2: Who are members of the Avengers?</string>
+
+    <string name="answer_01_01">Palau</string>
+    <string name="answer_01_02">Tuvalu</string>
+    <string name="answer_01_03">Nauru</string>
+    <string name="answer_02_01">Deborah Kerr</string>
+    <string name="answer_02_02">Richard Burton</string>
+    <string name="answer_02_03">Peter O\'Toole</string>
+    <string name="answer_03_01">Botswana</string>
+    <string name="answer_03_02">Gabon</string>
+    <string name="answer_03_03">Seychelles</string>
+    <string name="answer_04_01">Cliff Richard, Westlife</string>
+    <string name="answer_04_02">The Beatles</string>
+    <string name="answer_04_03">Elvis Presley</string>
+    <string name="answer_05_01">China</string>
+    <string name="answer_05_02">US</string>
+    <string name="answer_05_03">North Korea</string>
+    <string name="answer_06_01">Amazon</string>
+    <string name="answer_06_02">Google</string>
+    <string name="answer_06_03">Microsoft</string>
+    <string name="answer_07_01">Bill Clinton</string>
+    <string name="answer_07_02">JFK</string>
+    <string name="answer_07_03">Theodore Roosevelt</string>
+    <string name="answer_08_01">Buda</string>
+    <string name="answer_08_02">Pest</string>
+    <string name="answer_08_03">Budapest</string>
+    <string name="answer_08_04">Danube</string>
+    <string name="answer_09_01">Iron Man</string>
+    <string name="answer_09_02">Batman</string>
+    <string name="answer_09_03">Spiderman</string>
+    <string name="answer_09_04">Antman</string>
+
+    <string name="pic_credit_01">c wikipedia</string>
+    <string name="pic_credit_02">Photo by Engin Akyurt from Pexels</string>
+    <string name="pic_credit_03">Photo by Follow Alice from Pexels</string>
+    <string name="pic_credit_04">Photo by Stas Knop from Pexels</string>
+    <string name="pic_credit_05">Photo by Pixaby from Pexels</string>
+    <string name="pic_credit_06">Photo by Dids from Pexels</string>
+    <string name="pic_credit_07">Photo by Pixabay from Pexels</string>
+    <string name="pic_credit_08">Photo by Nikolett Emmert from Pexels</string>
+    <string name="pic_credit_09">Photo by Pixabay from Pexels</string>
+</resources>
